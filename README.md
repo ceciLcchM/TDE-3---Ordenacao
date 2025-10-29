@@ -6,8 +6,11 @@ Este projeto tem como objetivo estudar e implementar diferentes algoritmos de or
 Os algoritmos analisados foram: Comb sort, Gnome sort, Bucket sort, Bubble sort com flag de parada, Selection sort e Cocktail sort.
 
 Os testes foram realizados com três vetores distintos:
+
 Vetor 1: valores aleatórios
+
 Vetor 2: valores já ordenados
+
 Vetor 3: valores decrescentes
 
 ## Instituição
