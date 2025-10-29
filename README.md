@@ -33,7 +33,7 @@ Cecília Lucchesi Mardegan (usuário: ceciLcchM)
 ## Análise de Desempenho
 ### 1. Desempenho em movimentações:
 
-![Movimentações dos Algoritmos](./Movimentacoes.png)
+![Movimentações dos Algoritmos](./Movimentacoes.PNG)
 
 O Selection sort foi o algoritmo que apresentou o menor número de movimentações, ele troca elementos apenas uma vez por iteração, isso o torna eficiente quando o objetivo é minimizar trocas. O Bucket sort e o Comb sort também obtiveram bom desempenho, ficando logo atrás com médias semelhantes. Já o Gnome sort, Cocktail sort e Bubble sort com flag realizaram muitas trocas, especialmente nos vetores desordenados, assim demonstrando menor eficiência.
 
