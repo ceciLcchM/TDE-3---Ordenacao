@@ -35,7 +35,15 @@ Cecília Lucchesi Mardegan (usuário: ceciLcchM)
 
 Ranking por Movimentações:
 
-![Movimentações dos Algoritmos](./Movimentacoes.PNG)
+| Posição | Algoritmo              | Vetor 1 | Vetor 2 | Vetor 3 | Média |
+| ------- | ---------------------- | ------- | ------- | ------- | ----- |
+| 1       | Selection Sort         | 54      | 0       | 30      | 28.0  |
+| 2       | Bucket Sort            | 40      | 40      | 40      | 40.0  |
+| 3       | Comb Sort              | 66      | 0       | 54      | 40.0  |
+| 4       | Gnome Sort             | 234     | 0       | 570     | 268.0 |
+| 5       | Cocktail Sort          | 234     | 0       | 570     | 268.0 |
+| 6       | Bubble Sort (com flag) | 234     | 0       | 570     | 268.0 |
+
 
 
 
@@ -53,7 +61,14 @@ Pior desempenho com mais trocas: Gnome, Cocktail e Bubble Sort
 
 Ranking por Comparações:
 
-![Comparações dos Algoritmos](./Comparacoes.PNG)
+| Posição | Algoritmo              | Vetor 1 | Vetor 2 | Vetor 3 | Média |
+| ------- | ---------------------- | ------- | ------- | ------- | ----- |
+| 1       | Bucket Sort            | 38      | 38      | 38      | 38.0  |
+| 2       | Cocktail Sort          | 154     | 19      | 190     | 121.0 |
+| 3       | Comb Sort              | 129     | 110     | 129     | 122.7 |
+| 4       | Gnome Sort             | 174     | 19      | 380     | 191.0 |
+| 5       | Selection Sort         | 190     | 190     | 190     | 190.0 |
+| 6       | Bubble Sort (com flag) | 285     | 19      | 380     | 228.0 |
 
 
 
