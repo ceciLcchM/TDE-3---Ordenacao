@@ -33,7 +33,7 @@ Cecília Lucchesi Mardegan (usuário: ceciLcchM)
 ## Análise de Desempenho
 ### 1. Desempenho em movimentações:
 
-
+Ranking por Movimentações:
 
 ![Movimentações dos Algoritmos](./Movimentacoes.PNG)
 
@@ -51,7 +51,7 @@ Pior desempenho com mais trocas: Gnome, Cocktail e Bubble Sort
 
 ### 2. Desempenho em comparações:
 
-
+Ranking por Comparações:
 
 ![Comparações dos Algoritmos](./Comparacoes.PNG)
 
